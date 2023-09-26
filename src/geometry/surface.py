@@ -20,8 +20,6 @@ params:
 - c_root (chord @root)[m]
 - c_tip (chord @tip)[m]
 - le_sweep (leading edge sweep angle) [deg]
-- qc_sweep (c/4 sweep angle) [deg]
-- mc_sweep (c/2 sweep angle) [deg]
 """
 
 
